@@ -5,5 +5,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukasaroot&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=tsukasaroot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsukasaroot&theme=tokyonight&v=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsukasaroot&theme=tokyonight" />
 </a>
