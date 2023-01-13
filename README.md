@@ -7,4 +7,3 @@
 <a href="https://wakatime.com/@tsukasaroot">
   <img align="center" src="https://github-readme-stats-tsukasaroot.vercel.app/api/wakatime?username=tsukasaroot&theme=tokyonight" />
 </a>
-http://github-readme-stats-tsukasaroot.vercel.app/
