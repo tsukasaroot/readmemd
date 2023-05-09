@@ -7,3 +7,5 @@
 <a href="https://wakatime.com/@tsukasaroot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsukasaroot&layout=compact" />
 </a>
+
+[![wakatime](https://wakatime.com/badge/user/a8c97f4a-f66c-423f-bc68-34cee3af760f.svg)](https://wakatime.com/@a8c97f4a-f66c-423f-bc68-34cee3af760f)
